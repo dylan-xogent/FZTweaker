@@ -11,6 +11,8 @@ iex (irm 'https://raw.githubusercontent.com/dylan-xogent/FZTweaker/main/FZTweake
 ```
 
 If you've cloned the repository locally, run the script with:
+=======
+Run the script with administrator privileges:
 
 ```powershell
 powershell -ExecutionPolicy Bypass -File FZTweaker.ps1
